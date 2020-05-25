@@ -1,5 +1,6 @@
 <h2>Lista de países com soma da população</h2>
 
+- JavaScript Moderno puro
 - Organização do código em funções
 - Código auto-documentado
 - Utilização de fetch com async/await
